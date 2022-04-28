@@ -1,4 +1,5 @@
 <!-- 이 파일에는 NFT 프로젝트 진행 중 관련 용어 및 정보를 기입하려 합니다. This file is intended to contain relevant terms and information during the NFT project. -->
 
 NFT: Non-Fungible Token의 약자. 대체 불가능한 토큰.
-ipfs: InterPlanetary File System의 약자. 분산 파일 시스템에서 데이터를 저장하고 공유하기위한 프로토콜 및 피어 투 피어 네트워크.  IPFS는 콘텐츠 주소 지정을 사용하여 모든 컴퓨팅 장치를 연결하는 전역 네임 스페이스의 각 파일을 고유하게 식별.
+ipfs: InterPlanetary File System의 약자. 분산 파일 시스템에서 데이터를 저장하고 공유하기위한 프로토콜 및 피어 투 피어 네트워크.
+      IPFS는 콘텐츠 주소 지정을 사용하여 모든 컴퓨팅 장치를 연결하는 전역 네임 스페이스의 각 파일을 고유하게 식별.
